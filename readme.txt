@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 Fast forward
 add new line
 add a new line
+now, it's good time to learn
