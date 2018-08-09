@@ -6,5 +6,8 @@ Creating a new branch is quick AND simple.
 Fast forward
 add new line test rebase tool function 
 add new line
+<<<<<<< HEAD
 add a new line
 now, it's good time to learn
+=======
+>>>>>>> delete readme.txt last line
